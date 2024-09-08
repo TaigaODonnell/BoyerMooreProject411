@@ -8,8 +8,9 @@ This program is an implementation of the Boyer Moore string matching algorithm. 
 ## How to to run the Program
 Given that the tests work, here is how to run the program:
 1) Using the provided tests
+   * Unzip the Tests.zip folder
    * The tests can be used by using the script runTests: ./runTests \<executable> \<test folder>
-2) Providing user input
+3) Providing user input
    * The first input is the text string. The text string can be of any length and with spaces. Do not provide nothing or else the algorithm does not work.
    * The second input is the pattern string. The pattern string can also be of any length and with spaces as well.Do not provide nothing or else the algorithm does not work. 
 
